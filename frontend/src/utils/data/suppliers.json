@@ -1,0 +1,372 @@
+[
+  {
+    "code": "GIRO",
+    "name": "GIRO TAXI",
+    "id": 26
+  },
+  {
+    "code": "BMET",
+    "name": "B-MET",
+    "id": 27
+  },
+  {
+    "code": "TMM",
+    "name": "Luxury Malaga Transfers, S.L.",
+    "id": 28
+  },
+  {
+    "code": "ABIAN",
+    "name": "Abianyera Bus",
+    "id": 29
+  },
+  {
+    "code": "VBUS",
+    "name": "Mallorca Grup Bus SL",
+    "id": 30
+  },
+  {
+    "code": "GRBEN",
+    "name": "Grupo Benidorm",
+    "id": 31
+  },
+  {
+    "code": "GR10",
+    "name": "Transfers Crew Bcn, S.L.",
+    "id": 32
+  },
+  {
+    "code": "EROS",
+    "name": "EROS BUS TRAVEL",
+    "id": 33
+  },
+  {
+    "code": "BAIX",
+    "name": "Auto Taxi Baix Camp, S.L.",
+    "id": 34
+  },
+  {
+    "code": "BONO",
+    "name": "Taxi Travel Ticket S.L.",
+    "id": 35
+  },
+  {
+    "code": "AGUI",
+    "name": "Autocares Aguilera, S.L",
+    "id": 36
+  },
+  {
+    "code": "TAF",
+    "name": "Transfer Almeria S.L.",
+    "id": 37
+  },
+  {
+    "code": "MARLAN",
+    "name": "Turismo Y Buses Costalmeria, S.L.",
+    "id": 38
+  },
+  {
+    "code": "TALM",
+    "name": "Taxi Almeria",
+    "id": 38
+  },
+  {
+    "code": "RTE",
+    "name": "Asoc. de Emp. de Auto Taxis de Elche",
+    "id": 39
+  },
+  {
+    "code": "JMROD",
+    "name": "Rodriguez Lopez, Jose Manuel",
+    "id": 40
+  },
+  {
+    "code": "JMUN",
+    "name": "TAXIS JOSE MUNUERA",
+    "id": 41
+  },
+  {
+    "code": "ELITE",
+    "name": "Elite Bus 2014, S.L.",
+    "id": 42
+  },
+  {
+    "code": "ALDAIA",
+    "name": "Autocares Aladia, S.L.",
+    "id": 43
+  },
+  {
+    "code": "VIAL",
+    "name": "Autocares VIAL S.L.",
+    "id": 44
+  },
+  {
+    "code": "NORBUS",
+    "name": "Central de Autocares de Menorca, S.L.",
+    "id": 45
+  },
+  {
+    "code": "AMP",
+    "name": "Accueil Marseille Provence",
+    "id": 46
+  },
+  {
+    "code": "SCLYTR",
+    "name": "Sicily Transfers",
+    "id": 47
+  },
+  {
+    "code": "MANCHA",
+    "name": "Autocares Manchabus S.L.U.",
+    "id": 48
+  },
+  {
+    "code": "COSLA",
+    "name": "Autos Cosla SCM",
+    "id": 49
+  },
+  {
+    "code": "RIAD",
+    "name": "HL Travel - Mr. Ahmed Haddad",
+    "id": 50
+  },
+  {
+    "code": "TAVAR",
+    "name": "Autos Tavares S.L.",
+    "id": 51
+  },
+  {
+    "code": "NAVAR",
+    "name": "Navarvip SLL",
+    "id": 52
+  },
+  {
+    "code": "BUSFUE",
+    "name": "Bus Leader, S.L. FUE",
+    "id": 53
+  },
+  {
+    "code": "BUSACE",
+    "name": "Bus Leader, S.L. ACE",
+    "id": 54
+  },
+  {
+    "code": "AMIT",
+    "name": "Amitours Paris",
+    "id": 55
+  },
+  {
+    "code": "ABJONG",
+    "name": "Taxi A.B. Jong",
+    "id": 56
+  },
+  {
+    "code": "IVANPEREZ",
+    "name": "Iv\u00e1n P\u00e9rez Cep\u00f3n",
+    "id": 57
+  },
+  {
+    "code": "CALELLA",
+    "name": "TRANSFER LINE BCN S.L.",
+    "id": 58
+  },
+  {
+    "code": "SOLIS",
+    "name": "AUTOCARES SOL\u00cdS AGUILAR, S.L.",
+    "id": 59
+  },
+  {
+    "code": "BUSLAES",
+    "name": "Bus La Esperanza S.L.",
+    "id": 60
+  },
+  {
+    "code": "MBTAXI",
+    "name": "JAIME ZEKRI KESKASSI",
+    "id": 60
+  },
+  {
+    "code": "OCEANO",
+    "name": "Oceano Bus S.L",
+    "id": 61
+  },
+  {
+    "code": "RVLAT",
+    "name": "Revelation Tours",
+    "id": 63
+  },
+  {
+    "code": "HERMES",
+    "name": "JOSE GONZALEZ GOMEZ",
+    "id": 64
+  },
+  {
+    "code": "FCLASS_RMU",
+    "name": "CONNECTRANSFERS SOCIEDAD LIMITADA",
+    "id": 65
+  },
+  {
+    "code": "TREU",
+    "name": "Aliance Transfers 2012 SL",
+    "id": 66
+  },
+  {
+    "code": "GUTI",
+    "name": "GUTIBUS S.L.",
+    "id": 68
+  },
+  {
+    "code": "SUPRM",
+    "name": "Supreme Travel",
+    "id": 69
+  },
+  {
+    "code": "WILG",
+    "name": "William's Garage",
+    "id": 70
+  },
+  {
+    "code": "HORIZON_LPA",
+    "name": "HORIZONT BUS SLU",
+    "id": 71
+  },
+  {
+    "code": "PARISVIP",
+    "name": "PARIS VIP LIMOUSINE",
+    "id": 72
+  },
+  {
+    "code": "TREK",
+    "name": "TREKLYCIA Touristic Services",
+    "id": 73
+  },
+  {
+    "code": "LANZ",
+    "name": "LANZAROTE BUS S.A.",
+    "id": 74
+  },
+  {
+    "code": "ISIK",
+    "name": "I\u015eIK OTO TRANSFER",
+    "id": 75
+  },
+  {
+    "code": "ROYGO",
+    "name": "ROYANO Y GONZALEZ. S.L.",
+    "id": 76
+  },
+  {
+    "code": "ANDCO",
+    "name": "Luxespcar Transfer SL",
+    "id": 77
+  },
+  {
+    "code": "POLO",
+    "name": "Atual Travel LDA",
+    "id": 78
+  },
+  {
+    "code": "ATHTOUR",
+    "name": "Athenstaxi-tour",
+    "id": 79
+  },
+  {
+    "code": "FONT",
+    "name": "Autocares R.Font SAU",
+    "id": 80
+  },
+  {
+    "code": "TREUVIP",
+    "name": "Aliance Transfers 2012 VIP",
+    "id": 81
+  },
+  {
+    "code": "NICOLAU",
+    "name": "Transfers Nicolau-Rigo, S.L.",
+    "id": 82
+  },
+  {
+    "code": "EDDIE",
+    "name": "EVRIPIDIS PAPANTONIS",
+    "id": 83
+  },
+  {
+    "code": "ACE",
+    "name": "Ace Taxi Ltd",
+    "id": 84
+  },
+  {
+    "code": "7777_LCA",
+    "name": "Nyofox Ltd.",
+    "id": 85
+  },
+  {
+    "code": "SOLEIL",
+    "name": "Destination Soleil",
+    "id": 86
+  },
+  {
+    "code": "BCARS",
+    "name": "WHEREUGO SL",
+    "id": 88
+  },
+  {
+    "code": "CNTRAL",
+    "name": "Total Traffic Solutions B.V.",
+    "id": 89
+  },
+  {
+    "code": "ACS",
+    "name": "ACS Chauffeur Provence",
+    "id": 90
+  },
+  {
+    "code": "EVASION",
+    "name": "SJP Evasion",
+    "id": 91
+  },
+  {
+    "code": "GILLES",
+    "name": "Entreprise Gilles PAYET",
+    "id": 92
+  },
+  {
+    "code": "AMIT_GVA",
+    "name": "Amitours GVA",
+    "id": 93
+  },
+  {
+    "code": "AMIT_GNB",
+    "name": "Amitours GNB",
+    "id": 94
+  },
+  {
+    "code": "FCT",
+    "name": "FCT Estonia O\u00dc",
+    "id": 95
+  },
+  {
+    "code": "PLMTA_ACE",
+    "name": "AUTOBUSES LA PALMITA. S.L. ACE",
+    "id": 96
+  },
+  {
+    "code": "PLMTA_FUE",
+    "name": "AUTOBUSES LA PALMITA. S.L. FUE",
+    "id": 97
+  },
+  {
+    "code": "GETU2_LDE",
+    "name": "GetU2 LDE",
+    "id": 98
+  },
+  {
+    "code": "MLNDRS_RHO",
+    "name": "Malandris Travel Co RHO",
+    "id": 99
+  },
+  {
+    "code": "MLNDRS_KGS",
+    "name": "Malandris Travel Co KGS",
+    "id": 100
+  }
+]

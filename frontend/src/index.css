@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos globales opcionales */
+body {
+  @apply font-nunito text-sm text-grayText-500 bg-lightGray-100;
+}
